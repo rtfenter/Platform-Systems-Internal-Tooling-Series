@@ -66,10 +66,16 @@ This series turns implicit platform mechanics into explicit system behavior.
 
 ---
 
-## Writing  
+## Writing
 
-Essays exploring platform governance, pipelines, debugging, and contract evolution.  
-*(Essays coming soon.)*
+Planned essays on platform governance, pipelines, debugging, and contract evolution.
+(These essays are not yet written — titles represent upcoming work.)
+
+- When Pipelines Lie  
+- Designing Invariants That Don’t Break  
+- Replay as a Product Surface  
+- Contracts That Evolve Without Chaos  
+- Routing Rules as Truth Architecture  
 
 ---
 
