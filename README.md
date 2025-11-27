@@ -203,16 +203,15 @@ Invariants turn assumptions into enforceable guarantees.
 
 ---
 
-### Contract Evolution Timeline
+Contract Evolution Timeline
 
-    v1  →  v2  →  v3  
-    |       |       |
-  add     rename   remove  
- field    field    field  
-           |
-         tighten enum
+v1  →  v2  →  v3  
+|       |       |
+add     rename  remove  
+field   field   field  
+         |
+      tighten enum
 
-Downstream impact depends on who consumes what and how strictly.
 
 ---
 
