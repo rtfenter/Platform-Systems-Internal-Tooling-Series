@@ -209,8 +209,8 @@ Invariants turn assumptions into enforceable guarantees.
       |       |       |
       add     rename  remove  
       field   field   field  
-         |
-      tighten enum
+              |
+            tighten enum
 
 
 ---
