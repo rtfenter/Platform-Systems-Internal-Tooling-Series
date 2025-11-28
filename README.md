@@ -82,18 +82,18 @@ Planned essays on platform governance, pipelines, debugging, and contract evolut
 ## Projects  
 
 These projects each have their own repo and contribute to the broader Platform Systems portfolio.
-
 ### Series Index
 
 | Prototype | Purpose | Live Demo | Repo |
 |----------|---------|-----------|------|
-| **Admin Rule Engine Playground** | Explore conditions, flags, eligibility, pricing logic | _coming soon_ | _coming soon_ |
+| **Admin Rule Engine Playground** | Explore conditions, flags, eligibility, pricing logic | https://rtfenter.github.io/Admin-Rule-Engine/ | https://github.com/rtfenter/Admin-Rule-Engine |
 | **Integration Pipeline Visualizer** | Visualize ETL pipeline flow: producer → transform → router → sink | _coming soon_ | _coming soon_ |
 | **Debug / Replay Sandbox** | Replay an event through a mock pipeline to see transformations | _coming soon_ | _coming soon_ |
 | **Invariants Visualizer** | Show where system assumptions break under real inputs | _coming soon_ | _coming soon_ |
 | **Contract Evolution Timeline** | Visualize contract version history and breaking changes | _coming soon_ | _coming soon_ |
 | **Incident Meaning Graph** | Show how services form conflicting “truths” during outages | _coming soon_ | _coming soon_ |
 | **Data Ownership Mapper** | Map which teams/systems own which fields across the platform | _coming soon_ | _coming soon_ |
+
 
 ---
 
